@@ -63,7 +63,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.Truemeds.TruemedsJavaDeveloperAssApplication</mainClass>
+                            <mainClass>com.example.truemedsAssignment.TruemedsJavaDeveloperAssApplication</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
